@@ -1,0 +1,26 @@
+.body_background {
+    background-image: url(https://c.tenor.com/B2Y36jtHnKwAAAAC/party-lights-night-life.gif);
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+}
+
+#myCanvas {
+    border-width: 10px;
+    background-color: white;
+    border-style: ridge;
+}
+
+h3 {
+    width: 1000px;
+    background-color: white;
+    display: inline-block;
+}
+
+button {
+    background-color: orange;
+    font-weight: bold;
+    font-style: italic;
+    color: green;
+    font-size: 10px;
+}
